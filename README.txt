@@ -1,3 +1,1 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/zahrajou/pen/aaEOOx.
-
- 
+react X-O game! try to play and win! 
